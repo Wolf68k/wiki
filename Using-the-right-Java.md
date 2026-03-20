@@ -155,7 +155,7 @@ Scroll down until you see the single entry in the table!
 
 Open terminal and type the following based on your distro
 * Ubuntu/Debian derivatives `sudo apt-get temurin-25-jdk`
-* Arch `sudo pacman -S temurin-25-jdk`
+* Arch `sudo pacman -S jdk25-openjdk`
 * Fedora `sudo dnf install temurin-25-jdk`
 * OpenSUSE `sudo zypper install temurin-25-jdk`
 
@@ -176,7 +176,7 @@ Scroll down until you see the single entry in the table!
 
 Open terminal and type the following based on your distro
 * Ubuntu/Debian derivatives `sudo apt-get temurin-21-jdk`
-* Arch `sudo pacman -S jdk21-temurin`
+* Arch `sudo pacman -S jdk21-openjdk`
 * Fedora `sudo dnf install temurin-21-jdk`
 * OpenSUSE `sudo zypper install temurin-21-jdk`
 
