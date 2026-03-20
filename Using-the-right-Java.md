@@ -3,11 +3,37 @@ If you don't know which one and how to get it, read on. After you installed the 
 
 # Windows  
 
-### **Minecraft 1.20.5 and newer (Java 21)**
+### **Minecraft 26 and newer (Java 25)**
+
+**Make sure to download the .msi installer!**
+
+Eclipse Termurin: <https://adoptium.net/temurin/releases/?os=windows&arch=any&package=jre&version=25&mode=filter>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-25-lts&os=windows&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-25>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#jdk25-windows>
+</details>
+
+&nbsp;
+
+### **Minecraft 1.20.5 until 1.21.11 (Java 21)**
 
 **Make sure to download the .msi installer!**
 
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-21>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#jdk21-windows>
+</details>
 
 &nbsp;
 
@@ -17,6 +43,8 @@ Pick the JRE versions and make sure to match the architecture with your system, 
 
 **Make sure to download the .msi installer!**
 
+**MCSR Users:** Must use this version
+
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=17>
 
 Scroll down until you see the single entry in the table!
@@ -24,8 +52,8 @@ Scroll down until you see the single entry in the table!
 <summary>Other Distributions</summary>
 
 * Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jre>
-* Microsoft OpenJDK: <https://docs.microsoft.com/en-gb/java/openjdk/download>
-* Oracle: <https://www.oracle.com/java/technologies/downloads/#java17>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-17>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#java17-windows>
 </details>
 
 &nbsp;
@@ -40,6 +68,7 @@ Note: There is an exception when using some poorly supported/unsupported old int
 
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=8>
 
+Scroll down until you see the single entry in the table!
 <details>
   <summary>Other Distributions</summary>
 
@@ -55,46 +84,157 @@ Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&pac
 
 For least amount of issues, choose **.pkg** download.
 
-### **Minecraft 1.20.5 and newer (Java 21)**
+### **Minecraft 26 and newer (Java 25)**
+
+**Make sure to download the .msi installer!**
+
+Eclipse Termurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=25&mode=filter>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-25-lts&os=macos&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-25>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#jdk25-mac>
+</details>
+
+&nbsp;
+
+### **Minecraft 1.20.5 until 1.21.11 (Java 21)**
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-21-lts&os=macos&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-17>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#java17-mac>
+</details>
 
 &nbsp;
 
 ### **Minecraft 1.17 until 1.20.4 (Java 17)**
+**MCSR Users:** Must use this version
+
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=17>
-  
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-21-lts&os=macos&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-17>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#java17-mac>
+</details>
   
 &nbsp;
 
 ### **Minecraft 1.16 and older (Java 8)**
 
+Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=any&package=jre&version=8&mode=filter>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=macos&architecture=x86-64-bit&package=jre#zulu>
+
+
 * Go to <https://www.java.com/en/download/manual.jsp>
 * Download the `Mac OS X` package. Make sure to download the x64 as ARM is currently not supported.
 * Install it.
+  </details>
 
 &nbsp;
 
 # Linux
 
-### **Minecraft 1.20.5 and newer (Java 21)**
+### **Minecraft 26 and newer (Java 25)**
 
-`temurin-21-jdk`
+Open terminal and type the following based on your distro
+* Ubuntu/Debian derivatives `sudo apt-get temurin-25-jdk`
+* Arch `sudo pacman -S temurin-25-jdk`
+* Fedora `sudo dnf install temurin-25-jdk`
+* OpenSUSE `sudo zypper install temurin-25-jdk`
+
+Eclipse Termurin: <https://adoptium.net/temurin/releases/?os=windows&arch=any&package=jre&version=25&mode=filter>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-25-lts&os=windows&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-25>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#jdk25-windows>
+</details>
+
+&nbsp;
+
+### **Minecraft 1.20.5 until 1.21.11 (Java 21)**
+
+Open terminal and type the following based on your distro
+* Ubuntu/Debian derivatives `sudo apt-get temurin-21-jdk`
+* Arch `sudo pacman -S jdk21-temurin`
+* Fedora `sudo dnf install temurin-21-jdk`
+* OpenSUSE `sudo zypper install temurin-21-jdk`
+
+Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=linux&arch=any&package=jre&version=21&mode=filter>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-21-lts&os=linux&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-21>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#jdk21-linux>
+</details>
 
 
 ### **Minecraft 1.17 until 1.20.4 (Java 17)**
+**MCSR Users:** Must use this version
 
-* Ubuntu/Debian derivatives: `openjdk-17-jre`
-* Arch `jre17-openjdk`
-* Fedora `java-17-openjdk`
-* OpenSUSE: `java-17-openjdk`
+Open terninal and type the following based on your distro
+* Ubuntu/Debian derivatives: `sudo apt-get install openjdk-17-jre`
+* Arch `sudo pacman -S jre17-openjdk`
+* Fedora `sudo dnf install java-17-openjdk`
+* OpenSUSE: `sudo zypper install java-17-openjdk`
+
+Or you can manually download it
+
+Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=linux&arch=any&package=jre&version=17&mode=filter>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=linux&architecture=x86-64-bit&package=jre#zulu>
+* Microsoft OpenJDK: <https://learn.microsoft.com/en-gb/java/openjdk/download#openjdk-17>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#jdk17-linux>
+</details>
+
 &nbsp;
 
 ### **Minecraft 1.16 and older (Java 8)**
 
-* Ubuntu/Debian derivatives: `openjdk-8-jre`
-* Arch `jre8-openjdk`
-* Fedora `java-1.8.0-openjdk`
-* OpenSUSE: `java-1.8.0-openjdk`
+Open terninal and type the following based on your distro
+* Ubuntu/Debian derivatives: `sudo apt-get install openjdk-8-jre`
+* Arch `sudo pacman -S jre8-openjdk`
+* Fedora `sudo dnf install java-1.8.0-openjdk`
+* OpenSUSE: `sudo zypper install java-1.8.0-openjdk`
+
+Or you can manually download it
+
+Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=linux&arch=any&package=jre&version=8&mode=filter>
+
+Scroll down until you see the single entry in the table!
+<details>
+<summary>Other Distributions</summary>
+
+* Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=linux&architecture=x86-64-bit&package=jre#zulu>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#jdk8-linux>
+</details>
 
 **Do not choose the headless version as that is designed for servers and not general use.**
 &nbsp;
